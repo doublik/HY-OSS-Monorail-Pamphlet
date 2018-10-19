@@ -1,12 +1,12 @@
-# **오픈 소스의 소개와 역사**{: .text-center }
-- Introduction and History of Open Source{: .text-right }
+# **오픈 소스의 소개와 역사**
+- Introduction and History of Open Source
 
 “누군가 내 등잔의 심지에서 불을 붙여가도 내 등잔의 불은 여전히 빛나고 있습니다.”
-*- 토마스 제퍼슨*{: .text-right }
+*- 토마스 제퍼슨*
 “인간은 주는 가운데에 풍요로워지나, 탐욕은 쌓은 가운데에 빈곤해진다.”
-*- 페르시아 속담*{: .text-right }
+*- 페르시아 속담*
 “새로운 조류에 편승하지 않으면 고여서 썩을 뿐이다.”
-*- 루시아 로페즈*{: .text-right }
+*- 루시아 로페즈*
 
 
 
